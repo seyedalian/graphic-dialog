@@ -2,8 +2,10 @@
 #gmail:seyedalian10@gmail.com
 
 
+
+
 Hi
-this abstract class  Help you to make a graphic dialog easier
+this abstract class  Help you to make a graphic dialog easier (android)
 
 
 for use this class you must:
